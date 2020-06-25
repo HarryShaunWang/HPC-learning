@@ -1,0 +1,3 @@
+[submodule "about"]
+	path = about
+	url = git@github.com:heptagonhust/about.git
